@@ -9,3 +9,8 @@ My Partner's Name: Asaki
 1. No, I wouldn't use a unit test to test the "message" fueture of a messaging application. Unit tests are meant to test small pieces of functionality. Therefore, they are not as suitable for testing an entire feature like messaging. 
    
 2. Yes, I would use a unit test to test the “max message length” feature of a messaging application. Since this kind of test is dimple and is just checking whethere the input exceeds a certain amount of characters. Therefore, unit tests are ideal in this type of sitation since it be tested without needing other parts of the application. 
+
+# Link
+
+**Expose Link:** https://crystalngyn645.github.io/Lab5_Starter/expose.html
+**Explore Link**: https://crystalngyn645.github.io/Lab5_Starter/explore.html
