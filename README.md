@@ -2,7 +2,7 @@
 Make sure you make a PR to your own repo's main and not the class' repo!! Otherwise you will lose points!!
 
 My name: Crystal Nguyen 
-My Partner's Name: Asaki
+Partner's Name: N/A
 
 ## Check Your Understanding
 
@@ -12,5 +12,6 @@ My Partner's Name: Asaki
 
 # Link
 
-**Expose Link:** https://crystalngyn645.github.io/Lab5_Starter/expose.html <br>
+**Expose Link:** https://crystalngyn645.github.io/Lab5_Starter/expose.html 
+
 **Explore Link**: https://crystalngyn645.github.io/Lab5_Starter/explore.html
