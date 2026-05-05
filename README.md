@@ -2,7 +2,7 @@
 Make sure you make a PR to your own repo's main and not the class' repo!! Otherwise you will lose points!!
 
 My name: Crystal Nguyen 
-My Partner's Name: Asaki
+My Partner's Name: N/A
 
 ## Check Your Understanding
 
