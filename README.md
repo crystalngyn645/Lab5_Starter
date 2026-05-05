@@ -12,5 +12,5 @@ My Partner's Name: Asaki
 
 # Link
 
-**Expose Link:** https://crystalngyn645.github.io/Lab5_Starter/expose.html
+**Expose Link:** https://crystalngyn645.github.io/Lab5_Starter/expose.html <br>
 **Explore Link**: https://crystalngyn645.github.io/Lab5_Starter/explore.html
