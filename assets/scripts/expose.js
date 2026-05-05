@@ -7,13 +7,13 @@ function init() {
 
   const hornSelect = document.getElementById('horn-select');
 
-  const hornImage = document.getElementById('expose-img');
+  const hornImage = document.querySelector('#expose > img');
 
   const volumeSlider = document.getElementById('volume');
 
-  const volumeIcon = document.getElementById('volume-controls');
-
-  const audio = document.getElementById('horn-sound');
+  const volumeIcon = document.querySelector('#volume-controls img');
+  
+  const audio = document.querySelector('audio');  
 
   const playButton = document.querySelector('button');
 
@@ -25,9 +25,9 @@ function init() {
   {
     const value = hornSelect.value;
 
-    hornImage.src = `./assets/images/${value}.svg`;
+    hornImage.src = `assets/images/${value}.svg`;
 
-    audio.src = `./assets/audio/${value}.mp3`;
+    audio.src = `assets/audio/${value}.mp3`;
   
     });
 
@@ -41,19 +41,19 @@ function init() {
 
     if (value === 0) 
     {
-      volumeIcon.src = './assets/icons/volume-level-0.svg';
+      volumeIcon.src = 'assets/icons/volume-level-0.svg';
     } 
     else if (value < 33) 
     {
-      volumeIcon.src = './assets/icons/volume-level-1.svg';
+      volumeIcon.src = 'assets/icons/volume-level-1.svg';
     }
     else if (value < 67) 
     {
-      volumeIcon.src = './assets/icons/volume-level-2.svg';
+      volumeIcon.src = 'assets/icons/volume-level-2.svg';
     }
     else 
     {
-      volumeIcon.src = './assets/icons/volume-level-3.svg';
+      volumeIcon.src = 'assets/icons/volume-level-3.svg';
     }
   });
 
